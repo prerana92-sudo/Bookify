@@ -1,0 +1,7 @@
+{
+    "welcome": "Vous vous êtes inscrit avec succès!",
+    "login_success": "Connexion réussie!",
+    "payment_success_message": "Commande passée avec succès!",
+    "book_doesnot_exist": "Le livre n'existe pas!",
+    "user_not_found":  "Accès utilisateur invalide, utilisateur non trouvé!"
+}

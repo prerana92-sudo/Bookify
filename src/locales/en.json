@@ -1,0 +1,7 @@
+{
+    "welcome": "You have registered sucessfully!",
+    "login_success":"Login Successfull!",
+    "payment_success_message": "Order placed successfully!",
+    "book_doesnot_exist": "Book doesnot exist!",
+    "user_not_found": "Invalid user access, User not found!"
+}

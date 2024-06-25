@@ -1,0 +1,15 @@
+{
+    // "$schema": "https://json.schemastore.org/tsconfig",
+    "compilerOptions": {
+      "target": "es2016",
+      "module": "commonjs",
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "outDir": "dist", // Ensure this line is present and set to "dist"
+      // "types": ["node", "express"]
+    },
+    "include": ["src/**/*.ts"],
+    "exclude": ["node_modules"]
+  }
